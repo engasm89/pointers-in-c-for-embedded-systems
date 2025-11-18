@@ -1,0 +1,4 @@
+# Generated helper artifacts
+*.o
+*.exe
+.DS_Store

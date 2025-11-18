@@ -1,3 +1,11 @@
+/*
+ * Course: Pointers In C For Embedded Systems
+ * Platform: Embedded Systems
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Include standard I/O for printing
 #include <stdlib.h> // Include stdlib for dynamic memory allocation
 #include <stdint.h> // Include stdint for fixed-width integer types
@@ -60,6 +68,7 @@ void pointer_to_pointer_demo(void) { // Function demonstrating pointer-to-pointe
 } // End function
 
 // Entry point for the program
+// Main routine: orchestrates the pointers in c for embedded systems scenario
 int main(void) { // Start of main function
   printf("Pointers in C for Embedded Systems\n"); // Print title
   write_led(0x00000001u); // Write a value to the simulated LED register
